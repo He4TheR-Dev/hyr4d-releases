@@ -1,0 +1,11 @@
+{
+  "version": "1.0.106",
+  "notes": "Si le compte Steam est déjà lié, HYR4D renouvelle la session tout seul quand Facepunch la refuse, puis se reconnecte au serveur enregistré. Le lien reste dans le coffre Windows après les mises à jour.",
+  "pub_date": "2026-11-10T07:07:53.213Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRbXo0bXJibFRSN3dHNlJpdlpVNUl0TVM4MEU4Rkg5MzROTU5rbDBCZWc0SGdUb1ZscFFkMDRteEhaOFRKT1Zhbks3eWJPeGd4dmduVHVHMncydkF2WHlDSGFLMmtySmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Mjk0NDQ2CWZpbGU6SFlSNERfMS4wLjEwNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEwNgo3Sm5EZlpNOE5yeTN4dm9mM0tXOTkzRHBzUE95dXBWeFVEWUM0S3JnZ0lLbDJFc1B2SjNWeXprZzR5NThtYUk5bWk0UFJRL2xVbHljVXk1N0ZveWVBZz09Cg==",
+      "url": "https://raw.githubusercontent.com/He4TheR-Dev/hyr4d-releases/dist/HYR4D_1.0.106_x64-setup.exe"
+    }
+  }
+}
